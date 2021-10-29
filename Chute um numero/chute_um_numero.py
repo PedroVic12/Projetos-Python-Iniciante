@@ -14,10 +14,10 @@ class ChuteONumero:
     def Iniciar(self):
         # Layout
         layout = [
-            [sg.Text('Seu Chute', size=(39, 0))],
-            [sg.Input(size=(18, 0), key='ValorChute')],
+            [sg.Text('Seu Chute', size=(50, 1))],
+            [sg.Input(size=(50, 50), key='ValorChute')],
             [sg.Button('Chutar!')],
-            [sg.Output(size=(39, 10))]
+            [sg.Output(size=(50, 50))]
         ]
         # criar uma janela
         janela = sg.Window('Chute o numero!', layout=layout)

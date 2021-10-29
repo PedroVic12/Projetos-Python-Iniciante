@@ -3,7 +3,7 @@ from PySimpleGUI import PySimpleGUI as sg
 # Layout
 sg.theme('Reddit')
 layout = [
-    [sg.Text('Nome do Usuario'), sg.Input(key='usuario', size=(20, 1))],
+    [sg.Text('Nome do Usuario'), sg.Input(key='usuario', size=(200, 100))],
     [sg.Text('Senha:'), sg.Input(key='senha', password_char='*')],
     # [sg.CheckBox('Salvar o login?')],
     [sg.Button('Entrar')]
