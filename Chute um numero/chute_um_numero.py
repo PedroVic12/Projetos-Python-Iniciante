@@ -15,9 +15,9 @@ class ChuteONumero:
         # Layout
         layout = [
             [sg.Text('Seu Chute', size=(50, 1))],
-            [sg.Input(size=(50, 50), key='ValorChute')],
+            [sg.Input(size=(50, 10), key='ValorChute')],
             [sg.Button('Chutar!')],
-            [sg.Output(size=(50, 50))]
+            [sg.Output(size=(50, 10))]
         ]
         # criar uma janela
         janela = sg.Window('Chute o numero!', layout=layout)
