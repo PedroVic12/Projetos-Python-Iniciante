@@ -4,7 +4,6 @@ import random
 import os
 import PySimpleGUI as sg
 
-
 os.system('cls')
 class SimuladorDeDado:
     def __init__(self):
@@ -28,7 +27,7 @@ class SimuladorDeDado:
         # Fazer alguma coisa com esses valores
         if(self.eventos):
             resposta = input(self.mensagem)
-        
+            
             try:
                     if self.eventos == 'Sim' or self.eventos == 's':
                         self.GerarValorDoDado()
