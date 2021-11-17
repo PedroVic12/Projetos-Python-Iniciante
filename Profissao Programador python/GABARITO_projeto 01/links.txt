@@ -1,0 +1,11 @@
+Todos links usados na aula de hoje:
+
+Formulário: https://forms.gle/rKfhMRdiE7qRjMK38
+
+Site do Python: https://www.python.org/downloads/
+
+Site do GIT: https://git-scm.com/
+
+Site do VS Code: https://code.visualstudio.com/
+
+Site do Chromium: https://chromedriver.chromium.org/downloads

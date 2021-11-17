@@ -1,0 +1,12 @@
+FULL_NAME;EMAIL;SOURCE;CATEGORIES;TYPE;RATING;CPU
+João Silva;joao@email.com;Atacado;Camisa, Calça;Cliente Regular;4;
+José Almeida;jose.almeida@gmail.com;Atacado;Camisa, Roupas Íntimas;Cliente Regular;4;
+Luis;luis_dj@hotmail.com;Atacado;Roupas Íntimas;;3;
+Felipe Cabrera;felipe@bylearn.com.br;Varejo;Camisa;Cadastrado;5;
+Bruce Wayne;;Varejo;Roupas Íntimas;Cliente Premium;5;
+Secreto CIA;confidencial;Atacado;Camisa, Roupas Íntimas;Não Cadastrado;4;
+Alisson Campos;alisson@campos.net;Atacado;Calça, Roupas Íntimas;Cliente Premium;4;
+Katia Aparecida;katia@ig.com.br;Atacado;Camisa, Calça, Vestido, Roupas Íntimas;Cliente Premium;5;
+Paulo Roberto;paulo@gmail.com;Varejo;Calça, Roupas Íntimas;Cliente Regular;3;
+Fabiana Santos;fabi@mail.com;Atacado;Vestido, Roupas Íntimas;Não Cadastrado;2;
+;;;;Não Cadastrado;0;
